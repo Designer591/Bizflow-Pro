@@ -1,0 +1,10 @@
+target/
+*.class
+*.log
+installer/dist/
+data/
+signing-private.key
+*.p12
+*.jks
+.idea/
+*.iml
